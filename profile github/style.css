@@ -1,0 +1,42 @@
+body{
+
+    zoom: 200%;
+
+
+    font-weight: 900;
+    background-color: rgb(84, 84, 107);
+
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+h1{
+    color: rgb(222, 188, 255);
+
+    letter-spacing: 6px;
+}
+
+.avatar{
+    
+    width: 100px;
+
+    border-radius: 50%;
+}
+
+.ggg{
+    color: rgb(222, 188, 255);
+}
+
+/* Box Model */
+div{
+    width: 150px;
+    color: rgb(200, 145, 255);
+    background: rgb(140, 60, 219);
+}
+
+.eelee{
+    color: rgb(174, 202, 255);
+}
+
+
